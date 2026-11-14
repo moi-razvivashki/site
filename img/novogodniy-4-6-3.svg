@@ -15,6 +15,7 @@
   .traceword { font-size: 17px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.4; stroke-dasharray: 1 0.8; }
   .word { font-size: 8px; font-weight: 700; letter-spacing: 0.6px; }</style><rect width="210" height="297" fill="#fff"/>
     
+    
     <text x="105" y="22" text-anchor="middle" class="title">Что лишнее?</text>
     <text x="105" y="31" text-anchor="middle" class="task">В каждом ряду найди лишний предмет и зачеркни его</text>
     <g transform="translate(10 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round"><path d="M50 50 L92 50 M76 50 L85.18 42.27 M76 50 L85.18 57.73 M50 50 L71 86.37 M63 72.52 L74.28 76.6 M63 72.52 L60.89 84.33 M50 50 L29 86.37 M37 72.52 L39.11 84.33 M37 72.52 L25.72 76.6 M50 50 L8 50 M24 50 L14.82 57.73 M24 50 L14.82 42.27 M50 50 L29 13.63 M37 27.48 L25.72 23.4 M37 27.48 L39.11 15.67 M50 50 L71 13.63 M63 27.48 L60.89 15.67 M63 27.48 L74.28 23.4 " fill="none" stroke-linecap="round"/></g>

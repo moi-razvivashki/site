@@ -1,0 +1,37 @@
+<svg viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm"><style>
+  text { font-family: "Segoe UI", "Arial", sans-serif; fill: #222; }
+  .title { font-size: 9px; font-weight: 700; }
+  .task { font-size: 4.6px; fill: #555; }
+  .cover1 { font-size: 15px; font-weight: 700; fill: #C94B4B; }
+  .h3 { font-size: 5.4px; font-weight: 700; }
+  .body { font-size: 4.6px; }
+  .small { font-size: 3.6px; fill: #555; }
+  .foot { font-size: 3px; fill: #999; }
+  .digit { font-size: 9px; font-weight: 700; }
+  .dotnum { font-size: 5.6px; font-weight: 700; }
+  .cbn { font-size: 6px; font-weight: 700; }
+  .dict { font-size: 7px; font-weight: 700; }
+  .trace { font-size: 26px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.5; stroke-dasharray: 1.2 1; }
+  .traceword { font-size: 17px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.4; stroke-dasharray: 1 0.8; }
+  .word { font-size: 8px; font-weight: 700; letter-spacing: 0.6px; }</style><rect width="210" height="297" fill="#fff"/>
+    
+    <rect x="30" y="13.5" width="150" height="12" rx="6" fill="#E3F0FF"/>
+    <text x="105" y="22" text-anchor="middle" class="title">Ракета по точкам</text>
+    <text x="105" y="31" text-anchor="middle" class="task">Соедини точки по порядку от 1 до 17, потом снова с 1. Раскрась рисунок</text>
+    <g transform="translate(10 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round">
+    <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
+    <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
+    <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="#9AD8FF"/>
+    <circle cx="88" cy="54" r="3.5" fill="#FFC93C"/>
+    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g>
+    <g transform="translate(188 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round">
+    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
+    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
+    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
+    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
+    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
+    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
+    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g>
+    <circle cx="105" cy="128" r="11" fill="none" stroke="#222" stroke-width="0.8"/><circle cx="105" cy="62" r="2" fill="#222"/><text x="105" y="57" text-anchor="middle" class="dotnum">1</text><circle cx="121" cy="82" r="2" fill="#222"/><text x="122.4" y="77.14" text-anchor="middle" class="dotnum">2</text><circle cx="129" cy="110" r="2" fill="#222"/><text x="132.02" y="105.69" text-anchor="middle" class="dotnum">3</text><circle cx="130" cy="140" r="2" fill="#222"/><text x="135.45" y="137.61" text-anchor="middle" class="dotnum">4</text><circle cx="130" cy="168" r="2" fill="#222"/><text x="136.68" y="172.1" text-anchor="middle" class="dotnum">5</text><circle cx="150" cy="192" r="2" fill="#222"/><text x="155.71" y="198.05" text-anchor="middle" class="dotnum">6</text><circle cx="150" cy="216" r="2" fill="#222"/><text x="154.39" y="223.45" text-anchor="middle" class="dotnum">7</text><circle cx="130" cy="206" r="2" fill="#222"/><text x="133.35" y="214.15" text-anchor="middle" class="dotnum">8</text><circle cx="122" cy="216" r="2" fill="#222"/><text x="124.04" y="224.7" text-anchor="middle" class="dotnum">9</text><circle cx="88" cy="216" r="2" fill="#222"/><text x="85.96" y="224.7" text-anchor="middle" class="dotnum">10</text><circle cx="80" cy="206" r="2" fill="#222"/><text x="76.65" y="214.15" text-anchor="middle" class="dotnum">11</text><circle cx="60" cy="216" r="2" fill="#222"/><text x="55.61" y="223.45" text-anchor="middle" class="dotnum">12</text><circle cx="60" cy="192" r="2" fill="#222"/><text x="54.29" y="198.05" text-anchor="middle" class="dotnum">13</text><circle cx="80" cy="168" r="2" fill="#222"/><text x="73.32" y="172.1" text-anchor="middle" class="dotnum">14</text><circle cx="80" cy="140" r="2" fill="#222"/><text x="74.55" y="137.61" text-anchor="middle" class="dotnum">15</text><circle cx="81" cy="110" r="2" fill="#222"/><text x="77.98" y="105.69" text-anchor="middle" class="dotnum">16</text><circle cx="89" cy="82" r="2" fill="#222"/><text x="87.6" y="77.14" text-anchor="middle" class="dotnum">17</text>
+    <text x="105" y="290" text-anchor="middle" class="foot">Развивашки для мальчиков · 4–6 лет · 13</text>
+  </svg>

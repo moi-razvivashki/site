@@ -1,0 +1,50 @@
+<svg viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm"><style>
+  text { font-family: "Segoe UI", "Arial", sans-serif; fill: #222; }
+  .title { font-size: 9px; font-weight: 700; }
+  .task { font-size: 4.6px; fill: #555; }
+  .cover1 { font-size: 15px; font-weight: 700; fill: #C94B4B; }
+  .h3 { font-size: 5.4px; font-weight: 700; }
+  .body { font-size: 4.6px; }
+  .small { font-size: 3.6px; fill: #555; }
+  .foot { font-size: 3px; fill: #999; }
+  .digit { font-size: 9px; font-weight: 700; }
+  .dotnum { font-size: 5.6px; font-weight: 700; }
+  .cbn { font-size: 6px; font-weight: 700; }
+  .dict { font-size: 7px; font-weight: 700; }
+  .trace { font-size: 26px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.5; stroke-dasharray: 1.2 1; }
+  .traceword { font-size: 17px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.4; stroke-dasharray: 1 0.8; }
+  .word { font-size: 8px; font-weight: 700; letter-spacing: 0.6px; }</style><rect width="210" height="297" fill="#fff"/>
+    
+    <rect x="30" y="13.5" width="150" height="12" rx="6" fill="#E3F0FF"/>
+    <text x="105" y="22" text-anchor="middle" class="title">Ракета летит к планете</text>
+    <text x="105" y="31" text-anchor="middle" class="task">Проведи ракету через космос к планете</text>
+    <g transform="translate(10 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round">
+    <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
+    <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
+    <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="#9AD8FF"/>
+    <circle cx="88" cy="54" r="3.5" fill="#FFC93C"/>
+    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g>
+    <g transform="translate(188 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round">
+    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
+    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
+    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
+    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
+    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
+    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
+    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g>
+    
+    <path d="M30 60 H45 M45 60 H60 M45 60 V75 M60 60 H75 M75 60 H90 M90 60 H105 M105 60 H120 M105 60 V75 M120 60 H135 M135 60 H150 M150 60 H165 M150 60 V75 M165 60 H180 M180 60 V75 M30 75 V90 M45 75 H60 M60 75 V90 M75 75 H90 M90 75 H105 M120 75 V90 M135 75 V90 M150 75 H165 M165 75 V90 M180 75 V90 M30 90 H45 M30 90 V105 M45 90 V105 M60 90 H75 M75 90 V105 M90 90 H105 M105 90 H120 M105 90 V105 M120 90 V105 M135 90 H150 M135 90 V105 M165 90 V105 M180 90 V105 M30 105 V120 M45 105 H60 M60 105 V120 M75 105 H90 M90 105 V120 M120 105 V120 M135 105 V120 M150 105 H165 M165 105 V120 M180 105 V120 M30 120 V135 M45 120 H60 M45 120 V135 M60 120 H75 M90 120 H105 M90 120 V135 M105 120 H120 M135 120 H150 M135 120 V135 M150 120 V135 M180 120 V135 M30 135 V150 M45 135 V150 M60 135 H75 M75 135 H90 M90 135 V150 M105 135 H120 M120 135 H135 M135 135 V150 M150 135 H165 M165 135 V150 M180 135 V150 M30 150 V165 M45 150 H60 M45 150 V165 M60 150 H75 M90 150 V165 M105 150 H120 M105 150 V165 M120 150 V165 M135 150 V165 M150 150 H165 M165 150 V165 M180 150 V165 M30 165 V180 M45 165 V180 M60 165 H75 M75 165 H90 M75 165 V180 M120 165 V180 M135 165 V180 M150 165 V180 M180 165 V180 M30 180 V195 M45 180 H60 M45 180 V195 M75 180 V195 M90 180 H105 M105 180 H120 M105 180 V195 M135 180 V195 M150 180 H165 M165 180 H180 M165 180 V195 M180 180 V195 M30 195 V210 M45 195 V210 M60 195 H75 M75 195 H90 M90 195 H105 M105 195 V210 M120 195 H135 M135 195 H150 M135 195 V210 M165 195 V210 M180 195 V210 M30 210 V225 M45 210 H60 M60 210 H75 M75 210 H90 M90 210 V225 M105 210 H120 M135 210 V225 M150 210 H165 M150 210 V225 M180 210 V225 M30 225 V240 M30 240 H45 M45 225 H60 M45 240 H60 M60 225 V240 M60 240 H75 M75 225 H90 M75 240 H90 M90 225 H105 M90 240 H105 M105 225 H120 M105 240 H120 M120 225 H135 M120 240 H135 M135 240 H150 M150 240 H165 M165 225 V240 M165 240 H180 " stroke="#222" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    <g transform="translate(7 57.5) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
+    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
+    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
+    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
+    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
+    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
+    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g>
+    <g transform="translate(183 222.5) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <circle cx="50" cy="50" r="25" fill="#FF8A3D"/>
+    <circle cx="42" cy="42" r="4" fill="none"/><circle cx="58" cy="58" r="3" fill="none"/>
+    <ellipse cx="50" cy="50" rx="45" ry="11" transform="rotate(-18 50 50)" fill="none"/></g>
+    <text x="105" y="290" text-anchor="middle" class="foot">Развивашки для мальчиков · 4–6 лет · 5</text>
+  </svg>
