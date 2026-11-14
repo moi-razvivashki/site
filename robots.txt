@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moi-razvivashki.ru/sitemap.xml

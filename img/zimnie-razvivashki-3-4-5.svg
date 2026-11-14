@@ -1,0 +1,24 @@
+<svg viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm"><style>
+  text { font-family: "Segoe UI", "Arial", sans-serif; fill: #222; }
+  .title { font-size: 9px; font-weight: 700; }
+  .task { font-size: 4.6px; fill: #555; }
+  .cover1 { font-size: 15px; font-weight: 700; fill: #C94B4B; }
+  .h3 { font-size: 5.4px; font-weight: 700; }
+  .body { font-size: 4.6px; }
+  .small { font-size: 3.6px; fill: #555; }
+  .foot { font-size: 3px; fill: #999; }
+  .digit { font-size: 9px; font-weight: 700; }
+  .dotnum { font-size: 5.6px; font-weight: 700; }
+  .cbn { font-size: 6px; font-weight: 700; }
+  .dict { font-size: 7px; font-weight: 700; }
+  .trace { font-size: 26px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.5; stroke-dasharray: 1.2 1; }
+  .traceword { font-size: 17px; font-weight: 700; fill: #eeeeee; stroke: #8a8a8a; stroke-width: 0.4; stroke-dasharray: 1 0.8; }
+  .word { font-size: 8px; font-weight: 700; letter-spacing: 0.6px; }</style><rect width="210" height="297" fill="#fff"/>
+    
+    <text x="105" y="22" text-anchor="middle" class="title">Ёлочка по точкам</text>
+    <text x="105" y="31" text-anchor="middle" class="task">Соедини точки по порядку от 1 до 7, потом снова с 1. Раскрась рисунок</text>
+    <g transform="translate(10 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round"><path d="M50 50 L92 50 M76 50 L85.18 42.27 M76 50 L85.18 57.73 M50 50 L71 86.37 M63 72.52 L74.28 76.6 M63 72.52 L60.89 84.33 M50 50 L29 86.37 M37 72.52 L39.11 84.33 M37 72.52 L25.72 76.6 M50 50 L8 50 M24 50 L14.82 57.73 M24 50 L14.82 42.27 M50 50 L29 13.63 M37 27.48 L25.72 23.4 M37 27.48 L39.11 15.67 M50 50 L71 13.63 M63 27.48 L60.89 15.67 M63 27.48 L74.28 23.4 " fill="none" stroke-linecap="round"/></g>
+    <g transform="translate(188 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round"><path d="M50 50 L92 50 M76 50 L85.18 42.27 M76 50 L85.18 57.73 M50 50 L71 86.37 M63 72.52 L74.28 76.6 M63 72.52 L60.89 84.33 M50 50 L29 86.37 M37 72.52 L39.11 84.33 M37 72.52 L25.72 76.6 M50 50 L8 50 M24 50 L14.82 57.73 M24 50 L14.82 42.27 M50 50 L29 13.63 M37 27.48 L25.72 23.4 M37 27.48 L39.11 15.67 M50 50 L71 13.63 M63 27.48 L60.89 15.67 M63 27.48 L74.28 23.4 " fill="none" stroke-linecap="round"/></g>
+    <rect x="95" y="200" width="20" height="18" fill="none" stroke="#222" stroke-width="0.8"/><circle cx="105" cy="70" r="2" fill="#222"/><text x="105" y="65" text-anchor="middle" class="dotnum">1</text><circle cx="150" cy="130" r="2" fill="#222"/><text x="156.78" y="130.28" text-anchor="middle" class="dotnum">2</text><circle cx="125" cy="130" r="2" fill="#222"/><text x="131.08" y="128.53" text-anchor="middle" class="dotnum">3</text><circle cx="165" cy="200" r="2" fill="#222"/><text x="170.01" y="206.89" text-anchor="middle" class="dotnum">4</text><circle cx="45" cy="200" r="2" fill="#222"/><text x="39.99" y="206.89" text-anchor="middle" class="dotnum">5</text><circle cx="85" cy="130" r="2" fill="#222"/><text x="78.92" y="128.53" text-anchor="middle" class="dotnum">6</text><circle cx="60" cy="130" r="2" fill="#222"/><text x="53.22" y="130.28" text-anchor="middle" class="dotnum">7</text>
+    <text x="105" y="290" text-anchor="middle" class="foot">Зимние развивашки · 3–4 года · 13</text>
+  </svg>
