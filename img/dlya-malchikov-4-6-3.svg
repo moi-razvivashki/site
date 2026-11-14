@@ -16,8 +16,8 @@
   .word { font-size: 8px; font-weight: 700; letter-spacing: 0.6px; }</style><rect width="210" height="297" fill="#fff"/>
     
     <rect x="30" y="13.5" width="150" height="12" rx="6" fill="#E3F0FF"/>
-    <text x="105" y="22" text-anchor="middle" class="title">Что лишнее?</text>
-    <text x="105" y="31" text-anchor="middle" class="task">В каждом ряду найди лишнюю картинку и зачеркни её</text>
+    <text x="105" y="22" text-anchor="middle" class="title">Кто спрятался?</text>
+    <text x="105" y="31" text-anchor="middle" class="task">Картинки нарисованы одна поверх другой. Найди, кто здесь спрятался</text>
     <g transform="translate(10 10) scale(0.12)" stroke="#222" stroke-width="3" stroke-linejoin="round">
     <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
     <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
@@ -32,17 +32,45 @@
     <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
     <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
     <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g>
-    <g transform="translate(24 50) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
-    <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
-    <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="#9AD8FF"/>
-    <circle cx="88" cy="54" r="3.5" fill="#FFC93C"/>
-    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g><g transform="translate(67 50) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
-    <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
-    <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="#9AD8FF"/>
-    <circle cx="88" cy="54" r="3.5" fill="#FFC93C"/>
-    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g><g transform="translate(110 50) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <rect x="38" y="44" width="134" height="140" rx="6" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(53 63) scale(0.7)" stroke="#222" stroke-width="1.29" stroke-linejoin="round">
+    <path d="M36 50 L18 74 L36 68 Z" fill="none"/>
+    <path d="M64 50 L82 74 L64 68 Z" fill="none"/>
+    <path d="M40 70 Q50 98 60 70 Z" fill="none"/>
+    <path d="M45 70 Q50 86 55 70 Z" fill="none"/>
+    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="none"/>
+    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="none"/>
+    <circle cx="50" cy="44" r="9" fill="none"/></g><g transform="translate(89 61) scale(0.7)" stroke="#222" stroke-width="1.29" stroke-linejoin="round">
+    <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="none"/>
+    <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="none"/>
+    <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="none"/>
+    <circle cx="88" cy="54" r="3.5" fill="none"/>
+    <circle cx="28" cy="70" r="12" fill="none"/><circle cx="28" cy="70" r="4.56" fill="none"/> <circle cx="74" cy="70" r="12" fill="none"/><circle cx="74" cy="70" r="4.56" fill="none"/></g><g transform="translate(61 101) scale(0.7)" stroke="#222" stroke-width="1.29" stroke-linejoin="round"><clipPath id="football-clip"><circle cx="50" cy="50" r="40"/></clipPath>
+      <circle cx="50" cy="50" r="40" fill="none"/>
+      <g clip-path="url(#football-clip)"><polygon points="81.15,7.12 85.51,20.54 74.1,28.83 62.69,20.54 67.05,7.12" fill="none"/><polygon points="100.41,66.38 88.99,74.67 77.58,66.38 81.94,52.96 96.05,52.96" fill="none"/><polygon points="50,103 38.59,94.71 42.95,81.29 57.05,81.29 61.41,94.71" fill="none"/><polygon points="-0.41,66.38 3.95,52.96 18.06,52.96 22.42,66.38 11.01,74.67" fill="none"/><polygon points="18.85,7.12 32.95,7.12 37.31,20.54 25.9,28.83 14.49,20.54" fill="none"/></g>
+      <path d="M50 37 L50 23 M50 23 L68.81 24.11 M50 23 L31.19 24.11 M62.36 45.98 L75.68 41.66 M75.68 41.66 L80.43 59.89 M75.68 41.66 L68.81 24.11 M57.64 60.52 L65.87 71.84 M65.87 71.84 L50 82 M65.87 71.84 L80.43 59.89 M42.36 60.52 L34.13 71.84 M34.13 71.84 L19.57 59.89 M34.13 71.84 L50 82 M37.64 45.98 L24.32 41.66 M24.32 41.66 L31.19 24.11 M24.32 41.66 L19.57 59.89 " fill="none"/>
+      <polygon points="50,37 62.36,45.98 57.64,60.52 42.36,60.52 37.64,45.98" fill="none"/>
+      <circle cx="50" cy="50" r="40" fill="none"/></g><g transform="translate(93 103) scale(0.7)" stroke="#222" stroke-width="1.29" stroke-linejoin="round">
+    <path d="M50 8 L50 62" fill="none"/>
+    <path d="M54 12 L54 58 L84 58 Z" fill="none"/>
+    <path d="M46 20 L46 58 L20 58 Z" fill="none"/>
+    <path d="M50 8 L64 12 L50 16 Z" fill="none"/>
+    <path d="M8 62 L92 62 L78 84 L22 84 Z" fill="none"/>
+    <path d="M4 94 Q12 88 20 94 T36 94 T52 94 T68 94 T84 94 T100 94" fill="none"/></g><text x="105" y="200" text-anchor="middle" class="body">Обведи тех, кто спрятался на картинке:</text><rect x="17" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(20 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
+    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
+    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
+    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
+    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
+    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
+    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g><rect x="47" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(50 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <path d="M8 54 L42 38 L58 38 L92 54 L92 62 L58 54 L42 54 L8 62 Z" fill="#3D8BFD"/>
+    <path d="M50 6 Q58 10 58 22 L58 72 L70 82 L70 88 L50 82 L30 88 L30 82 L42 72 L42 22 Q42 10 50 6 Z" fill="#FFFFFF"/>
+    <ellipse cx="50" cy="22" rx="4" ry="6" fill="#9AD8FF"/></g><rect x="77" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(80 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round"><clipPath id="football-clip"><circle cx="50" cy="50" r="40"/></clipPath>
+      <circle cx="50" cy="50" r="40" fill="#FFFFFF"/>
+      <g clip-path="url(#football-clip)"><polygon points="81.15,7.12 85.51,20.54 74.1,28.83 62.69,20.54 67.05,7.12" fill="#4A4A4A"/><polygon points="100.41,66.38 88.99,74.67 77.58,66.38 81.94,52.96 96.05,52.96" fill="#4A4A4A"/><polygon points="50,103 38.59,94.71 42.95,81.29 57.05,81.29 61.41,94.71" fill="#4A4A4A"/><polygon points="-0.41,66.38 3.95,52.96 18.06,52.96 22.42,66.38 11.01,74.67" fill="#4A4A4A"/><polygon points="18.85,7.12 32.95,7.12 37.31,20.54 25.9,28.83 14.49,20.54" fill="#4A4A4A"/></g>
+      <path d="M50 37 L50 23 M50 23 L68.81 24.11 M50 23 L31.19 24.11 M62.36 45.98 L75.68 41.66 M75.68 41.66 L80.43 59.89 M75.68 41.66 L68.81 24.11 M57.64 60.52 L65.87 71.84 M65.87 71.84 L50 82 M65.87 71.84 L80.43 59.89 M42.36 60.52 L34.13 71.84 M34.13 71.84 L19.57 59.89 M34.13 71.84 L50 82 M37.64 45.98 L24.32 41.66 M24.32 41.66 L31.19 24.11 M24.32 41.66 L19.57 59.89 " fill="none"/>
+      <polygon points="50,37 62.36,45.98 57.64,60.52 42.36,60.52 37.64,45.98" fill="#4A4A4A"/>
+      <circle cx="50" cy="50" r="40" fill="none"/></g><rect x="107" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(110 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
     <path d="M30 50 L35 37 L42 47 Z" fill="#FF8A3D"/>
     <path d="M44 46 L50 33 L56 45 Z" fill="#FF8A3D"/>
     <path d="M58 46 L64 34 L69 49 Z" fill="#FF8A3D"/>
@@ -51,120 +79,17 @@
     <rect x="30" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
     <rect x="60" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
     <ellipse cx="50" cy="62" rx="30" ry="19" fill="#3CC46B"/>
-    <circle cx="89" cy="19" r="2.5" fill="#222"/></g><g transform="translate(153 50) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <circle cx="89" cy="19" r="2.5" fill="#222"/></g><rect x="137" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(140 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
     <path d="M8 68 L8 54 Q8 46 18 45 L30 44 L40 28 Q42 25 47 25 L70 25 Q75 25 77 29 L85 44 Q94 46 94 54 L94 68 Z" fill="#F25C54"/>
     <path d="M45 31 L38 44 L58 44 L58 31 Z" fill="#9AD8FF"/>
     <path d="M63 31 L63 44 L80 44 L73 31 Z" fill="#9AD8FF"/>
     <circle cx="88" cy="54" r="3.5" fill="#FFC93C"/>
-    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g><g transform="translate(24 94) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
-    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
-    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
-    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
-    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
-    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
-    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g><g transform="translate(67 94) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
-    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
-    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
-    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
-    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
-    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
-    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g><g transform="translate(110 94) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M36 50 L18 74 L36 68 Z" fill="#F25C54"/>
-    <path d="M64 50 L82 74 L64 68 Z" fill="#F25C54"/>
-    <path d="M40 70 Q50 98 60 70 Z" fill="#FF8A3D"/>
-    <path d="M45 70 Q50 86 55 70 Z" fill="#FFC93C"/>
-    <path d="M50 4 Q70 22 66 70 L34 70 Q30 22 50 4 Z" fill="#FFFFFF"/>
-    <path d="M50 4 Q61 13 64 26 L36 26 Q39 13 50 4 Z" fill="#F25C54"/>
-    <circle cx="50" cy="44" r="9" fill="#9AD8FF"/></g><g transform="translate(153 94) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
+    <circle cx="28" cy="70" r="12" fill="#4A4A4A"/><circle cx="28" cy="70" r="4.56" fill="#FFFFFF"/> <circle cx="74" cy="70" r="12" fill="#4A4A4A"/><circle cx="74" cy="70" r="4.56" fill="#FFFFFF"/></g><rect x="167" y="210" width="26" height="30" rx="4" fill="none" stroke="#9a9a9a" stroke-width="0.4"/><g transform="translate(170 215) scale(0.2)" stroke="#222" stroke-width="4" stroke-linejoin="round">
     <path d="M50 8 L50 62" fill="none"/>
     <path d="M54 12 L54 58 L84 58 Z" fill="#FFFFFF"/>
     <path d="M46 20 L46 58 L20 58 Z" fill="#FFC93C"/>
     <path d="M50 8 L64 12 L50 16 Z" fill="#F25C54"/>
     <path d="M8 62 L92 62 L78 84 L22 84 Z" fill="#3D8BFD"/>
-    <path d="M4 94 Q12 88 20 94 T36 94 T52 94 T68 94 T84 94 T100 94" fill="none"/></g><g transform="translate(24 138) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M8 54 L42 38 L58 38 L92 54 L92 62 L58 54 L42 54 L8 62 Z" fill="#3D8BFD"/>
-    <path d="M50 6 Q58 10 58 22 L58 72 L70 82 L70 88 L50 82 L30 88 L30 82 L42 72 L42 22 Q42 10 50 6 Z" fill="#FFFFFF"/>
-    <ellipse cx="50" cy="22" rx="4" ry="6" fill="#9AD8FF"/></g><g transform="translate(67 138) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M50 10 L50 3" fill="none"/><circle cx="50" cy="3" r="3.5" fill="#F25C54"/>
-    <rect x="12" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="78" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="32" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="56" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="30" y="10" width="40" height="28" rx="5" fill="#B8C2CC"/>
-    <circle cx="41" cy="22" r="5" fill="#FFC93C"/><circle cx="59" cy="22" r="5" fill="#FFC93C"/>
-    <rect x="41" y="30" width="18" height="3" rx="1.5" fill="#4A4A4A"/>
-    <rect x="24" y="42" width="52" height="40" rx="5" fill="#3D8BFD"/>
-    <circle cx="50" cy="58" r="7" fill="#F25C54"/>
-    <path d="M36 72 L64 72" fill="none"/></g><g transform="translate(110 138) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M50 10 L50 3" fill="none"/><circle cx="50" cy="3" r="3.5" fill="#F25C54"/>
-    <rect x="12" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="78" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="32" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="56" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="30" y="10" width="40" height="28" rx="5" fill="#B8C2CC"/>
-    <circle cx="41" cy="22" r="5" fill="#FFC93C"/><circle cx="59" cy="22" r="5" fill="#FFC93C"/>
-    <rect x="41" y="30" width="18" height="3" rx="1.5" fill="#4A4A4A"/>
-    <rect x="24" y="42" width="52" height="40" rx="5" fill="#3D8BFD"/>
-    <circle cx="50" cy="58" r="7" fill="#F25C54"/>
-    <path d="M36 72 L64 72" fill="none"/></g><g transform="translate(153 138) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M50 10 L50 3" fill="none"/><circle cx="50" cy="3" r="3.5" fill="#F25C54"/>
-    <rect x="12" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="78" y="46" width="10" height="26" rx="4" fill="#B8C2CC"/>
-    <rect x="32" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="56" y="80" width="12" height="16" rx="3" fill="#B8C2CC"/>
-    <rect x="30" y="10" width="40" height="28" rx="5" fill="#B8C2CC"/>
-    <circle cx="41" cy="22" r="5" fill="#FFC93C"/><circle cx="59" cy="22" r="5" fill="#FFC93C"/>
-    <rect x="41" y="30" width="18" height="3" rx="1.5" fill="#4A4A4A"/>
-    <rect x="24" y="42" width="52" height="40" rx="5" fill="#3D8BFD"/>
-    <circle cx="50" cy="58" r="7" fill="#F25C54"/>
-    <path d="M36 72 L64 72" fill="none"/></g><g transform="translate(24 182) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round"><clipPath id="football-clip"><circle cx="50" cy="50" r="40"/></clipPath>
-      <circle cx="50" cy="50" r="40" fill="#FFFFFF"/>
-      <g clip-path="url(#football-clip)"><polygon points="81.15,7.12 85.51,20.54 74.1,28.83 62.69,20.54 67.05,7.12" fill="#4A4A4A"/><polygon points="100.41,66.38 88.99,74.67 77.58,66.38 81.94,52.96 96.05,52.96" fill="#4A4A4A"/><polygon points="50,103 38.59,94.71 42.95,81.29 57.05,81.29 61.41,94.71" fill="#4A4A4A"/><polygon points="-0.41,66.38 3.95,52.96 18.06,52.96 22.42,66.38 11.01,74.67" fill="#4A4A4A"/><polygon points="18.85,7.12 32.95,7.12 37.31,20.54 25.9,28.83 14.49,20.54" fill="#4A4A4A"/></g>
-      <path d="M50 37 L50 23 M50 23 L68.81 24.11 M50 23 L31.19 24.11 M62.36 45.98 L75.68 41.66 M75.68 41.66 L80.43 59.89 M75.68 41.66 L68.81 24.11 M57.64 60.52 L65.87 71.84 M65.87 71.84 L50 82 M65.87 71.84 L80.43 59.89 M42.36 60.52 L34.13 71.84 M34.13 71.84 L19.57 59.89 M34.13 71.84 L50 82 M37.64 45.98 L24.32 41.66 M24.32 41.66 L31.19 24.11 M24.32 41.66 L19.57 59.89 " fill="none"/>
-      <polygon points="50,37 62.36,45.98 57.64,60.52 42.36,60.52 37.64,45.98" fill="#4A4A4A"/>
-      <circle cx="50" cy="50" r="40" fill="none"/></g><g transform="translate(67 182) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round"><clipPath id="football-clip"><circle cx="50" cy="50" r="40"/></clipPath>
-      <circle cx="50" cy="50" r="40" fill="#FFFFFF"/>
-      <g clip-path="url(#football-clip)"><polygon points="81.15,7.12 85.51,20.54 74.1,28.83 62.69,20.54 67.05,7.12" fill="#4A4A4A"/><polygon points="100.41,66.38 88.99,74.67 77.58,66.38 81.94,52.96 96.05,52.96" fill="#4A4A4A"/><polygon points="50,103 38.59,94.71 42.95,81.29 57.05,81.29 61.41,94.71" fill="#4A4A4A"/><polygon points="-0.41,66.38 3.95,52.96 18.06,52.96 22.42,66.38 11.01,74.67" fill="#4A4A4A"/><polygon points="18.85,7.12 32.95,7.12 37.31,20.54 25.9,28.83 14.49,20.54" fill="#4A4A4A"/></g>
-      <path d="M50 37 L50 23 M50 23 L68.81 24.11 M50 23 L31.19 24.11 M62.36 45.98 L75.68 41.66 M75.68 41.66 L80.43 59.89 M75.68 41.66 L68.81 24.11 M57.64 60.52 L65.87 71.84 M65.87 71.84 L50 82 M65.87 71.84 L80.43 59.89 M42.36 60.52 L34.13 71.84 M34.13 71.84 L19.57 59.89 M34.13 71.84 L50 82 M37.64 45.98 L24.32 41.66 M24.32 41.66 L31.19 24.11 M24.32 41.66 L19.57 59.89 " fill="none"/>
-      <polygon points="50,37 62.36,45.98 57.64,60.52 42.36,60.52 37.64,45.98" fill="#4A4A4A"/>
-      <circle cx="50" cy="50" r="40" fill="none"/></g><g transform="translate(110 182) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <rect x="6" y="22" width="56" height="44" rx="3" fill="#FF8A3D"/>
-    <path d="M62 34 L80 34 Q84 34 86 38 L94 52 L94 66 L62 66 Z" fill="#3D8BFD"/>
-    <path d="M68 40 L80 40 L87 52 L68 52 Z" fill="#9AD8FF"/>
-    <circle cx="24" cy="70" r="11" fill="#4A4A4A"/><circle cx="24" cy="70" r="4.18" fill="#FFFFFF"/> <circle cx="78" cy="70" r="11" fill="#4A4A4A"/><circle cx="78" cy="70" r="4.18" fill="#FFFFFF"/></g><g transform="translate(153 182) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round"><clipPath id="football-clip"><circle cx="50" cy="50" r="40"/></clipPath>
-      <circle cx="50" cy="50" r="40" fill="#FFFFFF"/>
-      <g clip-path="url(#football-clip)"><polygon points="81.15,7.12 85.51,20.54 74.1,28.83 62.69,20.54 67.05,7.12" fill="#4A4A4A"/><polygon points="100.41,66.38 88.99,74.67 77.58,66.38 81.94,52.96 96.05,52.96" fill="#4A4A4A"/><polygon points="50,103 38.59,94.71 42.95,81.29 57.05,81.29 61.41,94.71" fill="#4A4A4A"/><polygon points="-0.41,66.38 3.95,52.96 18.06,52.96 22.42,66.38 11.01,74.67" fill="#4A4A4A"/><polygon points="18.85,7.12 32.95,7.12 37.31,20.54 25.9,28.83 14.49,20.54" fill="#4A4A4A"/></g>
-      <path d="M50 37 L50 23 M50 23 L68.81 24.11 M50 23 L31.19 24.11 M62.36 45.98 L75.68 41.66 M75.68 41.66 L80.43 59.89 M75.68 41.66 L68.81 24.11 M57.64 60.52 L65.87 71.84 M65.87 71.84 L50 82 M65.87 71.84 L80.43 59.89 M42.36 60.52 L34.13 71.84 M34.13 71.84 L19.57 59.89 M34.13 71.84 L50 82 M37.64 45.98 L24.32 41.66 M24.32 41.66 L31.19 24.11 M24.32 41.66 L19.57 59.89 " fill="none"/>
-      <polygon points="50,37 62.36,45.98 57.64,60.52 42.36,60.52 37.64,45.98" fill="#4A4A4A"/>
-      <circle cx="50" cy="50" r="40" fill="none"/></g><g transform="translate(24 226) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M30 50 L35 37 L42 47 Z" fill="#FF8A3D"/>
-    <path d="M44 46 L50 33 L56 45 Z" fill="#FF8A3D"/>
-    <path d="M58 46 L64 34 L69 49 Z" fill="#FF8A3D"/>
-    <path d="M26 58 Q10 62 4 46 Q16 58 30 54 Z" fill="#3CC46B"/>
-    <path d="M70 56 Q74 32 78 20 Q80 10 89 11 Q98 12 97 21 Q96 29 86 29 Q84 42 84 58 Z" fill="#3CC46B"/>
-    <rect x="30" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <rect x="60" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <ellipse cx="50" cy="62" rx="30" ry="19" fill="#3CC46B"/>
-    <circle cx="89" cy="19" r="2.5" fill="#222"/></g><g transform="translate(67 226) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round"><path d="M22 6 L22 96" fill="none"/><rect x="24" y="10" width="60" height="36" fill="#FFFFFF"/><rect x="24" y="19" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="24" y="37" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="34" y="10" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="34" y="28" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="44" y="19" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="44" y="37" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="54" y="10" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="54" y="28" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="64" y="19" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="64" y="37" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="74" y="10" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="74" y="28" width="10" height="9" fill="#4A4A4A" stroke="none"/><rect x="24" y="10" width="60" height="36" fill="none"/></g><g transform="translate(110 226) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M30 50 L35 37 L42 47 Z" fill="#FF8A3D"/>
-    <path d="M44 46 L50 33 L56 45 Z" fill="#FF8A3D"/>
-    <path d="M58 46 L64 34 L69 49 Z" fill="#FF8A3D"/>
-    <path d="M26 58 Q10 62 4 46 Q16 58 30 54 Z" fill="#3CC46B"/>
-    <path d="M70 56 Q74 32 78 20 Q80 10 89 11 Q98 12 97 21 Q96 29 86 29 Q84 42 84 58 Z" fill="#3CC46B"/>
-    <rect x="30" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <rect x="60" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <ellipse cx="50" cy="62" rx="30" ry="19" fill="#3CC46B"/>
-    <circle cx="89" cy="19" r="2.5" fill="#222"/></g><g transform="translate(153 226) scale(0.32)" stroke="#222" stroke-width="4" stroke-linejoin="round">
-    <path d="M30 50 L35 37 L42 47 Z" fill="#FF8A3D"/>
-    <path d="M44 46 L50 33 L56 45 Z" fill="#FF8A3D"/>
-    <path d="M58 46 L64 34 L69 49 Z" fill="#FF8A3D"/>
-    <path d="M26 58 Q10 62 4 46 Q16 58 30 54 Z" fill="#3CC46B"/>
-    <path d="M70 56 Q74 32 78 20 Q80 10 89 11 Q98 12 97 21 Q96 29 86 29 Q84 42 84 58 Z" fill="#3CC46B"/>
-    <rect x="30" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <rect x="60" y="72" width="11" height="20" rx="3" fill="#3CC46B"/>
-    <ellipse cx="50" cy="62" rx="30" ry="19" fill="#3CC46B"/>
-    <circle cx="89" cy="19" r="2.5" fill="#222"/></g>
-    <text x="105" y="290" text-anchor="middle" class="foot">Развивашки для мальчиков · 4–6 лет · 9</text>
+    <path d="M4 94 Q12 88 20 94 T36 94 T52 94 T68 94 T84 94 T100 94" fill="none"/></g><text x="105" y="258" text-anchor="middle" class="small">Подсказка: обведи пальчиком каждый контур на большой картинке и раскрась его своим цветом</text>
+    <text x="105" y="290" text-anchor="middle" class="foot">Развивашки для мальчиков · 4–6 лет · 17</text>
   </svg>
